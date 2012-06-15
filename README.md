@@ -1,6 +1,6 @@
 # README zu RYLC-TDD #
 
-Beispielcode zum Kapitel 2: Testen im Buch [Mobile Web-Apps mit JavaScript](opitz-consulting.com/go_javascriptbuch).
+Beispielcode zum Kapitel 4: Testen im Buch [Mobile Web-Apps mit JavaScript](opitz-consulting.com/go_javascriptbuch).
 
 *   Voraussetzungen:
     *   Java Development Kit 1.6 oder neuer.
